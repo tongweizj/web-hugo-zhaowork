@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://blog-zhaowork.pages.dev/'
 languageCode = 'en-us'
 title = 'IT找工作'
 theme = 'PaperMod'
