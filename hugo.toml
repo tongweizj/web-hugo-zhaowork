@@ -1,4 +1,5 @@
-baseURL = 'zhaowork.ca'
+baseURL = 'https://zhaowork.ca'
 languageCode = 'en-us'
-title = 'IT找工作'
+title = 'IT工作坊'
 theme = 'PaperMod'
+paginate = 5
