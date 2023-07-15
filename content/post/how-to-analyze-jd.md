@@ -1,7 +1,7 @@
 ---
 title: "How to Analyze Jd"
 date: 2023-07-14T21:23:44-04:00
-draft: true
+draft: false
 ---
 
 对于目标明确，自己觉得很想去的职位，
