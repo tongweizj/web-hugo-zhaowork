@@ -1,10 +1,7 @@
 ---
 title: "如何写一份杀手级的简历"
-date: 2023-07-19T09:07:50-04:00
-draft: false
+date: 2023-07-19T20:34:28-04:00
 ---
-
-
 
 This resume got me interviews at Google, Facebook, Amazon, Microsoft, and Apple.
 这份简历让我获得了谷歌、Facebook、亚马逊、微软和苹果的面试机会。
