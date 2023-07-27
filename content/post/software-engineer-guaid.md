@@ -1,6 +1,7 @@
 ---
 title: "Software Engineer Guaid"
 date: 2023-07-24T16:00:50-04:00
+tags: ["Career-Guides"]
 draft: false
 ---
 

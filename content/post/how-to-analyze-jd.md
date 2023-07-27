@@ -1,6 +1,7 @@
 ---
 title: "How to Analyze Jd"
 date: 2023-07-14T21:23:44-04:00
+tags: ["resume"]
 draft: false
 ---
 
