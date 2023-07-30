@@ -4,6 +4,7 @@ title = 'IT工作坊'
 theme = 'PaperMod'
 paginate = 5
 
+googleAnalytics = 'G-PZKXB6RPNT'
 [menu]
 [[menu.main]]
   name = 'Home'
