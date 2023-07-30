@@ -1,5 +1,5 @@
 ---
-title: "How to Analyze Jd"
+title: "怎么分析JD"
 date: 2023-07-14T21:23:44-04:00
 tags: ["resume"]
 draft: false

@@ -1,8 +1,10 @@
 ---
-title: "如何写一份杀手级的简历"
+title: "新人如何写一份杀手级的简历"
 date: 2023-07-19T09:07:50-04:00
 tags: ["resume"]
 draft: false
+showToc: true
+description: "Desc Text."
 ---
 
 

@@ -10,10 +10,18 @@ paginate = 5
   pageRef = '/'
   weight = 10
 [[menu.main]]
-  name = 'Products'
-  pageRef = '/products'
+  name = 'Resume'
+  pageRef = '/tags/resume/'
   weight = 20
 [[menu.main]]
-  name = 'Services'
-  pageRef = '/services'
+  name = 'Interview'
+  pageRef = '/tags/interview/'
   weight = 30
+[[menu.main]]
+  name = 'Guaid'
+  pageRef = '/tags/guaid/'
+  weight = 40
+[[menu.main]]
+  name = 'Resouce'
+  pageRef = '/tags/resouce/'
+  weight = 50
