@@ -1,6 +1,7 @@
 ---
 title: "Best Job Search Engines Boards for Finding a Remote Job 2023"
 date: 2023-08-16T12:02:17-04:00
+tags: ["resouce"]
 draft: false
 ---
 
